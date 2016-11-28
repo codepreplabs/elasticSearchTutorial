@@ -5,7 +5,7 @@ package com.codeprep.constants;
  */
 public enum Constants {
 
-	CONFIG_FILE("E:/learning/elasticSearch/javaclientexamples/01transportClient/src/main/resources/searchconfig.properties"),
+	CONFIG_FILE("esconfig.properties"),
 
 	ELASTICSEARCH_HOST("elasticsearch.host"),
 
